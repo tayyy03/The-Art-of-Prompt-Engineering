@@ -1,1 +1,1 @@
-The Art of Promt Engginer
+The Art of Prompt Enggineering
